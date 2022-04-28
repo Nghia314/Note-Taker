@@ -5,7 +5,7 @@ const express = require('express');
 const { resolveSrv } = require('dns/promises');
 
 const app = express();
-const PORT = process.env.PORT || 3001;
+const PORT = process.env.PORT || 5500;
 
 app.use(express.static('public'));
 
