@@ -2,7 +2,7 @@
 ## Description
 - This app is create for user to take note and store their note, and also can delete their store note.
 ## Demonstration
-
+https://youtu.be/z62OY1qJJSo
 ## Screenshots of App
 <img width="1440" alt="Screen Shot 2022-04-28 at 6 33 36 PM" src="https://user-images.githubusercontent.com/100381618/165872607-3057cc06-7443-4515-878f-4c3295c7e24b.png">
 <img width="1440" alt="Screen Shot 2022-04-28 at 6 35 43 PM" src="https://user-images.githubusercontent.com/100381618/165872722-2420aedd-6ea4-44e0-af2e-ed6965664c7c.png">
