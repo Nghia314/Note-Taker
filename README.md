@@ -48,5 +48,5 @@ app.get('/notes', (req, res) => {
 - (https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 -(https://img.shields.io/github/languages/top/Nghia314/Note-Taker)
 ## GitHub repo link and deploy link
-- 
-- 
+- https://github.com/Nghia314/Note-Taker
+- https://nghia314.github.io/Note-Taker/
