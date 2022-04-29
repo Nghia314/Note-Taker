@@ -6,7 +6,7 @@
 ## Screenshots of App
 
 ## App deploy site
-
+- Heroku https://note-taker-aop.herokuapp.com/
 ##  Installing
 - clone the repository to the local machine, and run the npm install to file.
 - when all code is finish run node server.js
